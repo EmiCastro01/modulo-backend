@@ -1,0 +1,26 @@
+{ "usuarios":[
+  {
+    "id": 1,
+    "name": "Gonza",
+    "lastName": "Serfaty",
+    "password": "asdasdasd"
+  },
+  {
+    "id": 2,
+    "name": "Emiliano",
+    "lastName": "Castro",
+    "password": "dsfsdfsdfsdfsdf"
+  },
+  {
+    "id": 3,
+    "name": "fgdfg",
+    "lastName": "dfgdfg",
+    "password": "dfgdfg"
+  },
+  {
+    "id": 4,
+    "name": "Juancito",
+    "lastName": "Castros",
+    "password": "asdasdasd"
+  }
+]}
