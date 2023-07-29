@@ -9,9 +9,9 @@
 </head>
 <body>
   <div class="container">
-    <%- include('../partials/header.ejs') %> 
+    <h2>Bienvenido, <%= user.name %></h2>
+    <a href="/logOut">Salir</a>
     <a href="/users">Ir a usuarios</a>
-    <a href="/addUser">Añadir usuario</a>
   </div>
 </body>
 </html>

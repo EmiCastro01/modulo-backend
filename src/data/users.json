@@ -1,26 +1,14 @@
 { "usuarios":[
   {
     "id": 1,
-    "name": "Gonza",
-    "lastName": "Serfaty",
-    "password": "asdasdasd"
+    "name": "Emiliano",
+    "lastName": "Castro",
+    "password": "$2b$10$dUtke2ReK.Em6qHPSuJuWuCZfbVayDKBw5t6pqIcs/7mdkSwYhGM."
   },
   {
     "id": 2,
-    "name": "Emiliano",
-    "lastName": "Castro",
-    "password": "dsfsdfsdfsdfsdf"
-  },
-  {
-    "id": 3,
-    "name": "fgdfg",
-    "lastName": "dfgdfg",
-    "password": "dfgdfg"
-  },
-  {
-    "id": 4,
-    "name": "Juancito",
-    "lastName": "Castros",
-    "password": "asdasdasd"
+    "name": "Gonza",
+    "lastName": "Serfaty",
+    "password": "$2b$10$Ivf5W7gE9wcajWluNQaipu7Oi8y3tE1QH3O.NWJgNJ/UwU3dEbG9e"
   }
 ]}
